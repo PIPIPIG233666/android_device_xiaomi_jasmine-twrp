@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xiaomi/jasmine_sprout
+LOCAL_PATH := device/xiaomi/wayne
 
 # Architecture
 TARGET_ARCH := arm64
